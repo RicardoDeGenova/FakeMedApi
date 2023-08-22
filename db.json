@@ -1,0 +1,43 @@
+{
+    "patients": [
+      {
+        "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "dateOfBirth": "1995-03-15T14:21:32.870Z",
+        "typeOfDiabetes": "type_1",
+        "gender": null,
+        "mrn": "any-string123123",
+        "email": "alice.smith@example.com",
+        "createdAt": "2019-02-20T10:11:12.870Z",
+        "accountActivated": "Yes",
+        "participantId": "123456",
+        "archivedDate": "2020-03-01T12:13:14.870Z",
+        "guardianEmail": "alice.guardian@example.com",
+        "guardianFirstName": null,
+        "guardianLastName": null,
+        "lastSyncEventTimestamp": "2019-04-05T15:16:17.870Z",
+        "phone": "1234567890"
+      },
+      {
+        "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "dateOfBirth": "1988-05-25T11:22:33.870Z",
+        "typeOfDiabetes": "type_2",
+        "gender": null,
+        "mrn": "any-string123123",
+        "email": "bob.johnson@example.com",
+        "createdAt": "2018-03-21T12:23:34.870Z",
+        "accountActivated": "No",
+        "participantId": "654321",
+        "archivedDate": "2019-04-02T13:24:35.870Z",
+        "guardianEmail": "bob.guardian@example.com",
+        "guardianFirstName": null,
+        "guardianLastName": null,
+        "lastSyncEventTimestamp": "2018-05-22T14:25:36.870Z",
+        "phone": "0987654321"
+      }
+    ]
+  }
+  
